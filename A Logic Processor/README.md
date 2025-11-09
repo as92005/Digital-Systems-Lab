@@ -1,4 +1,4 @@
-4-Bit Serial Logic Processor
+#4-Bit Serial Logic Processor
 
 Overview:
 - Designed and implemented a 4-bit serial logic processor capable of performing eight logic operations (AND, OR, XOR, NAND, NOR, XNOR, SET, CLR) and routing results back into registers based on user input. Built first on a breadboard using TTL components, then extended to an 8-bit SystemVerilog version on an FPGA using Vivado and vSim.
