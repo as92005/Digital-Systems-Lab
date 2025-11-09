@@ -24,4 +24,4 @@ Tools & Technologies:-
 - Concepts: Finite State Machines, Bit-Serial Processing, Combinational/Sequential Logic, Hardware Debugging
 
 Overall Circuit: 
-<img src="https://github.com/user-attachments/assets/b7f5ff00-92d0-40d6-8b52-30ca2c5391f6" width="400" height="60" alt="image">
+<img src="https://github.com/user-attachments/assets/b7f5ff00-92d0-40d6-8b52-30ca2c5391f6" width="400" height="600" alt="image">
